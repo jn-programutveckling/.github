@@ -4,6 +4,8 @@ This file chronicles all noteworthy changes to this project over time. It is bas
 
 ## [unreleased]
 
+## [v1.0.2] (2022-11-11)
+
 -   Fixed
     -   Links in the changelog are now correct.
 
@@ -18,6 +20,7 @@ This file chronicles all noteworthy changes to this project over time. It is bas
     -   The first version of the README.
 
 
-[unreleased]: https://github.com/jn-programutveckling/.github/compare/v1.0.1…HEAD
+[unreleased]: https://github.com/jn-programutveckling/.github/compare/v1.0.2…HEAD
+[v1.0.2]: https://github.com/jn-programutveckling/.github/compare/v1.0.1…v1.0.2
 [v1.0.1]: https://github.com/jn-programutveckling/.github/compare/v1.0.0…v1.0.1
 [v1.0.0]: https://github.com/jn-programutveckling/.github/compare/57ab3d6a1d8dedf290785314b6b497cd6ca185d6…v1.0.0
