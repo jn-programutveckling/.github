@@ -12,4 +12,4 @@ What you see is what you get. Go to [JN Programutveckling AB's GitHub page](http
 
 ## Licenses
 
-.github is distributed under an MIT License. Read the full terms in the file [LICENSE](LICENSE).
+dot-github is distributed under a Creative Commons Attribution-No Derivatives 4.0 International license. Read the full terms in the file [LICENSE](LICENSE).
