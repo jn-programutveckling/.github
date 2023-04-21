@@ -4,6 +4,9 @@ This file chronicles all noteworthy changes to this project over time. It is bas
 
 ## [unreleased]
 
+- Added
+    - Mentions of my work experience and a link to my Linkedin profile.
+
 - Changed
     - Switched the MIT License to a Creative Commons Attribution-No Derivatives 4.0 International license.
 
