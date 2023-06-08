@@ -5,8 +5,10 @@ This file chronicles all noteworthy changes to this project over time. It is bas
 ## [unreleased]
 
 - Added
+    - Link to the company website.
     - Mentions of my work experience and a link to my Linkedin profile.
-
+    - Section telling I'm open for work.
+    
 - Changed
     - Switched the MIT License to a Creative Commons Attribution-No Derivatives 4.0 International license.
 
