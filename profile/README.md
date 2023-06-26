@@ -4,7 +4,7 @@ This is the GitHub page for my company JN Programutveckling AB. Who am I? I'm [J
 
 JN Programutveckling AB develops applications and games, as well as educational resources regarding accessibility and software design. I'm also open to helping out on software projects. Feel free to [contact me](mailto:kontakt@jn-programutveckling.se) for more information.
 
-Many of the projects I'm working on are hidden away in private repositories. Some projects are public and visible on the [organisation repository page](https://github.com/orgs/jn-programutveckling/repositories). For updates on all my projects, please see my company's website at [jn-programutveckling.se](https://www.jn-programutveckling.se).
+Many of the projects I'm working on are hidden away in private repositories. Some projects are public and visible on the [organisation repository page](https://github.com/orgs/jn-programutveckling/repositories). For updates on all my projects, please see my company's website at [jn-programutveckling.se](https://www.jn-programutveckling.se). Also, please be aware that projects with a version number lower than 1.0.0 can change drastically without prior notice and even removed or hidden from public view until it reaches version 1.0.0.
 
 ## Previous work experience
 
@@ -12,7 +12,7 @@ The bulk of my previous work experience has revolved around web development in v
 
 ## Programming languages
 
-My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also delved into the wondrous world of JavaScript and specifically Node.js. My next language in my to-learn list is GDScript, a scripting language for the [Godot game engine](https://godotengine.org/).
+My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also dipped my toes into Node.js and GDScript.
 
 ## Open for work
 
