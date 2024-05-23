@@ -4,6 +4,8 @@ This file chronicles all noteworthy changes to this project over time. It is bas
 
 ## Unreleased
 
+## v1.1.1 (2024-05-23)
+
 - Fixed
   - Typo in the section "Open for work".
 
