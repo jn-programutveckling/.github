@@ -4,6 +4,11 @@ This file chronicles all noteworthy changes to this project over time. It is bas
 
 ## Unreleased
 
+## v1.2.0 (2025-03-20)
+
+- Changed
+  - Updates to the public readme.
+
 ## v1.1.1 (2024-05-23)
 
 - Fixed

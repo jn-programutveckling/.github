@@ -12,8 +12,8 @@ The bulk of my previous work experience has revolved around web development in v
 
 ## Programming languages
 
-My main programming language is Java, but I also use PHP, HTML/CSS, Python and C#. Recently, I've also dipped my toes into Node.js and GDScript.
+My main programming language is Java, but I also regularly use PHP, HTML/CSS and Python. For game development I use GDScript, and for static websites, I use a bit of JS/Node.js.
 
 ## Open for work
 
-As stated on the ["contract work" page on my company website](https://www.jn-programutveckling.se/uppdrag/) (written in Swedish, sorry!), I'm open for contract work. Please check out that page for more information. Even if you don't speak Swedish, I think Google Translate does a decent job with translating it.
+As stated on the ["contract work" page on my company website](https://www.jn-programutveckling.se/uppdrag/) (written in Swedish, sorry!), I'm open for contract work. Please check out that page for more information. Even if you don't speak Swedish, I think Google Translate does a decent job translating it.
